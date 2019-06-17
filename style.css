@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+
+.container div img {
+    height: 200px;
+    width: 135px;
+}
